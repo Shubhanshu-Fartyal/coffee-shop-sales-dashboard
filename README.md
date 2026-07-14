@@ -86,4 +86,4 @@ This dashboard helps answer those questions using transaction-level sales data.
 
 ## Author
 
-Shubhanshu
+Shubhanshu Singh Fartyal
